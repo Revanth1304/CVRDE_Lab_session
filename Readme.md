@@ -1,5 +1,5 @@
 # Please refer following order for better understanding
-1. **Installations:** - Which contains instructions whileinstalling vs-code and anaconda environments. Please carefully read the instructions and follow the figures in it. And $\textcolor{red}{\text{red}}$ color refers to references to download.
+1. **/CVRDE_lab_session.pdf** - Which contains instructions whileinstalling vs-code and anaconda environments. Please carefully read the instructions and follow the figures in it. And $\textcolor{red}{\text{red}}$ color refers to references to download.
 1. **Ann_sigmoid.ipynb, Ann_relu.ipynb** - Two layered ANN from Scratch using sigmoid and relu activations.
 1. **torch_basics.ipynb**- 
     - Give the torch basics like how to add two tensors, how to calculate gradients, 
